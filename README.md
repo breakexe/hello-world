@@ -1,2 +1,5 @@
 # hello-world
-Just another repository
+
+Hello Internet!
+
+I like "Serial Experiments Lain".
